@@ -2,6 +2,9 @@
 
 This is a simple demonstration of langchain using OpenAI embeddings and FAISS to extract summary sections from a large document in response to natural language queries.
 
+See `what_the_dormouse_said.py` for an example of parsing an input text file (Alice in Wonderland).
+
+See `three_legs_of_intel.py` for an example of parsing a PDF (an investor call transcript for Intel).
 
 ## Usage
 
