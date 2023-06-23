@@ -49,4 +49,4 @@ remarked; `they'd have been ill.'
 ```
 
 
-For more information and advanced techniques see the documentation at [https://python.langchain.com/docs/modules/data_connection/vectorstores/integrations/faiss]
+For more information and advanced techniques see the [LangChain documentation](https://python.langchain.com/docs/modules/data_connection/vectorstores/integrations/faiss)
